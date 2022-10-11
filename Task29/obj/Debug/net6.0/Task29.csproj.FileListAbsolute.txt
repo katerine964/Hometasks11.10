@@ -1,0 +1,15 @@
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Task29/obj/Debug/net6.0/Task29.csproj.AssemblyReference.cache
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Task29/obj/Debug/net6.0/Task29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Task29/obj/Debug/net6.0/Task29.AssemblyInfoInputs.cache
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Task29/obj/Debug/net6.0/Task29.AssemblyInfo.cs
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Task29/obj/Debug/net6.0/Task29.csproj.CoreCompileInputs.cache
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Task29/bin/Debug/net6.0/Task29
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Task29/bin/Debug/net6.0/Task29.deps.json
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Task29/bin/Debug/net6.0/Task29.runtimeconfig.json
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Task29/bin/Debug/net6.0/Task29.dll
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Task29/bin/Debug/net6.0/ref/Task29.dll
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Task29/bin/Debug/net6.0/Task29.pdb
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Task29/obj/Debug/net6.0/Task29.dll
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Task29/obj/Debug/net6.0/ref/Task29.dll
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Task29/obj/Debug/net6.0/Task29.pdb
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Task29/obj/Debug/net6.0/Task29.genruntimeconfig.cache
