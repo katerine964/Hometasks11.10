@@ -1,0 +1,15 @@
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Second max/obj/Debug/net6.0/Second max.csproj.AssemblyReference.cache
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Second max/obj/Debug/net6.0/Second max.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Second max/obj/Debug/net6.0/Second max.AssemblyInfoInputs.cache
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Second max/obj/Debug/net6.0/Second max.AssemblyInfo.cs
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Second max/obj/Debug/net6.0/Second max.csproj.CoreCompileInputs.cache
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Second max/bin/Debug/net6.0/Second max
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Second max/bin/Debug/net6.0/Second max.deps.json
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Second max/bin/Debug/net6.0/Second max.runtimeconfig.json
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Second max/bin/Debug/net6.0/Second max.dll
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Second max/bin/Debug/net6.0/ref/Second max.dll
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Second max/bin/Debug/net6.0/Second max.pdb
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Second max/obj/Debug/net6.0/Second max.dll
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Second max/obj/Debug/net6.0/ref/Second max.dll
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Second max/obj/Debug/net6.0/Second max.pdb
+/Users/ekaterinaromanova/Desktop/Hometasks11.10/Second max/obj/Debug/net6.0/Second max.genruntimeconfig.cache
